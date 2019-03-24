@@ -1,0 +1,34 @@
+body {
+  text-align: left;
+  font-family:monospace;
+  background-color: white;
+}
+textarea {
+
+	max-height: 175vh;
+
+  max-width:80vh;
+	width: 100%;
+  font-size 200px;
+}
+button {
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.2s;
+  background-color: #43474f;
+  border: 2px solid #43474f;
+  border-radius: 2px;
+  color: white;
+  padding: 10px 60px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+
+
+}
+button:hover {
+  background-color: white;
+  color:  #43474f;
+  font-size: 20px;
+
+}
